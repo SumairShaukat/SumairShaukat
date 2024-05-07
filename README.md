@@ -1,5 +1,9 @@
 ### HEY 👋  I'm Sumair
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 I'm an Passionate JavaScript developer with expertise in modern frameworks like React and Node.js. Committed to delivering high-quality, performant code while staying abreast of industry trends. Dedicated to fostering collaboration and contributing to the vibrant JavaScript community.
 
 
