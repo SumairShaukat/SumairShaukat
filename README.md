@@ -10,10 +10,8 @@ My Skills :
 - 🌱 I’m currently learning Docker and Aws.
 - 👯 I’m always open to collaborating on exciting JavaScript projects and contributing to open-source initiatives.
 - 🤔 I’m looking for best mates.
-- 💬 Always learning
-- 📫 https://www.linkedin.com/in/muhammad-sumair-shaukat-0180b6211/
--  [![Linkedin Badge](https://img.shields.io/badge/-sumair-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/muhammad-sumair-shaukat-0180b6211/)
-
+- 💬 Always learning.
+-📫 Message me on :  [![Linkedin Badge](https://img.shields.io/badge/-sumair-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/muhammad-sumair-shaukat-0180b6211/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I google everything!!
   
