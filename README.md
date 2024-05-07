@@ -12,7 +12,7 @@ My Skills :
 - 🤔 I’m looking for best mates.
 - 💬 Always learning
 - 📫 https://www.linkedin.com/in/muhammad-sumair-shaukat-0180b6211/
--  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/muhammad-sumair-shaukat-0180b6211/)
+-  [![Linkedin Badge](https://img.shields.io/badge/-sumair-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/muhammad-sumair-shaukat-0180b6211/)
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
