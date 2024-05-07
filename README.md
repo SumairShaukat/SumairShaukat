@@ -1,7 +1,12 @@
-### Hi there 👋
+### HEY 👋  I'm Sumair
 
-<!--
-**SumairShaukat/SumairShaukat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Passionate JavaScript developer with expertise in modern frameworks like React and Node.js. Committed to delivering high-quality, performant code while staying abreast of industry trends. Dedicated to fostering collaboration and contributing to the vibrant JavaScript community.
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 
