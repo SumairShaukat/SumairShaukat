@@ -7,7 +7,7 @@ I'm an Passionate JavaScript developer with expertise in modern frameworks like 
 My Skills :
 
 - 🔭 I’m currently working on javascript technologies.
-- 🌱 I’m currently learning Docker , Aws amd Apache Kafka.
+- 🌱 I’m currently learning Docker , Aws and Apache Kafka.
 - 👯 I’m always open to collaborating on exciting JavaScript projects and contributing to open-source initiatives.
 - 🤔 I’m looking for best mates.
 - 💬 Always learning.
